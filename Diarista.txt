@@ -1,0 +1,4 @@
+﻿Maria     | 1/5/2000  | 21|15|Faxina    |200|mari2|1234
+Fernanda  | 2/7/1985  | 36|10|Faxina    |200|fer3 |1234
+Jõao      | 7/10/1993 | 28|3 |Jardinagem|300|joao4|1234
+Pedro     | 7/11/1993 | 29|30|Jardinagem|300|pedr1|1234
